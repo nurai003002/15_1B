@@ -19,3 +19,6 @@ def sauce():
     elif user == 'чесночный':
         print('Тесто с чесночный соусом готово' )
     player(user, new_nickname)
+
+# qwww
+    
